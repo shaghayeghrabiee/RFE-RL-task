@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import List from "./list";
+import './mainPage.css';
 
 const MainPage = () => {
   const [tagArray, setTagArray] = useState([]);
