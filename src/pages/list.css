@@ -1,0 +1,10 @@
+
+.inputItem {
+  width: 200px;
+  padding: 10px;
+  background-color: rgb(207, 209, 208);
+  border-radius: 10px;
+  margin: 5px;
+  cursor: pointer;
+  list-style: none;
+}
